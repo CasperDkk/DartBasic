@@ -1,5 +1,13 @@
-//If else statements
+//If statements
 void main() {
+  var num = 8;
+  if (num > 5) {
+    print("Greater than");
+  }
+  print("Hello World");
+
+//If else statements
+
   var age = 10;
 
   if (age > 18) {
